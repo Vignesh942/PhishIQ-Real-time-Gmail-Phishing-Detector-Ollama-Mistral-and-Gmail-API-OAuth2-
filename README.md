@@ -1,4 +1,4 @@
-# Real time Gmail Phishing Detector (Ollama Mistral + Gmail API OAuth2)
+# PhishIQ: Real time Gmail Phishing Detector (Ollama Mistral + Gmail API OAuth2)
 
 **A privacy Gmail phishing detector** that runs fully on your local system  no data leaves your computer.  
 It monitors your Gmail inbox in real-time, scans unread emails, and uses both **smart rules** and **local AI (LLM)** to detect phishing attempts quickly and accurately.
